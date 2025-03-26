@@ -1,0 +1,13 @@
+body{
+    background-color: #a7a1a1;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+b.learner{
+    color: #dd0d52;
+    margin: 0;
+    padding: 0;
+    flex: auto;
+}
